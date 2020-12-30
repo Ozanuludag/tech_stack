@@ -20,7 +20,6 @@ const ListItem = ({library}) => {
     ) {
       UIManager.setLayoutAnimationEnabledExperimental(true);
     }
-  
   });
 
   const {item} = library;
